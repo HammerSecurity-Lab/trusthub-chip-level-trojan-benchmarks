@@ -1,5 +1,4 @@
 *
 !/.gitignore
 !/chip-level-trojan/
-
-
+!/chip-level-trojan/**
